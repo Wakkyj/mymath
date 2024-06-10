@@ -33,3 +33,7 @@ func Abs(x float64) float64 {
 func Yn(n int, x float64) float64 {
     return math.Yn(n, x)
 }
+
+func Tan(x float64) float64 {
+    return math.Tan(x)
+}
